@@ -4,7 +4,7 @@ body {
 
 .wrapper {
     margin: 0 auto;
-    /* max-width: 800px; */
+    max-width: 1200px;
 }
 
 header {
@@ -16,6 +16,7 @@ img {
     float: left;
     padding-right: 10px;
     max-width: 150px;
+    height: auto;
 }
 
 .clearfix::after {
